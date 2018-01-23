@@ -7,11 +7,3 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 
-
-// resets
-s { font-style: normal; } //strike-through
-em { font-style: normal; font-weight: bold; } //italic emphasis
-
-// colors
-s { color: green }
-em { color: blue }
