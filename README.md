@@ -7,7 +7,7 @@
 - ![#1589F0](https://placehold.it/15/1589F0/000000?text=+) `#1589F0`
 
 
-### h3 заголовок третьего уровня
+
 ```html
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 ```
