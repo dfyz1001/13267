@@ -14,8 +14,9 @@
 ```php
 <?php here_pagecontent(); ?>
 ```
-```scss /* или css */
-@import "bower_components/tree-normalize/generic.normalize";
+```scss 
+
+@import "bowыer_components/tree-normalize/generic.normalize";
 h1 {
  font-size:1.5em;
  font-weight: 300;
