@@ -17,8 +17,8 @@
 ```scss 
 
 @import "МАКСИМУМ ТАК МОГУ ПОМЕНЯТЬ ";
-зеленый{
+h1{
  font-size:1.5em;
- font-weight: 300;
+ cbybq;
 }
 ```
