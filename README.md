@@ -16,7 +16,7 @@
 ```
 ```scss 
 
-@import "bowыer_components/tree-normalize/generic.normalize";
+@import "МАКСИМУМ ТАК МОГУ ПОМЕНЯТЬ ";
 h1 {
  font-size:1.5em;
  font-weight: 300;
