@@ -9,3 +9,15 @@
 
 
 
+<site>
+    <text>.......</text>
+    <product id="drapery" background-img="drapery.jpg" title-img="drapery-main.jpg">
+        <title>Портьеры, тюль</title>
+        <description>Портьеры из плотных тканей...</description>
+	<image img="drapery/1.jpg"/>
+	...
+	<image img="drapery/37.jpg"/>
+    </product>
+    ...
+    <product .../>
+</site>
