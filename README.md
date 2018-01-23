@@ -2,4 +2,5 @@
 + зеленный 
 - крассный 
 ```
-<style="color:red"> ваы </style>
+<font color="red;">Это шрифт красного цвета</font>
+
