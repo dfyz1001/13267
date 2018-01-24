@@ -18,7 +18,7 @@
 
 @import "МАКСИМУМ ТАК МОГУ ПОМЕНЯТЬ ";
 h1{
- font-size:1.5em;
- cbybq;
+ 
+angl
 }
 ```
